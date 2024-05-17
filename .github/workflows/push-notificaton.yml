@@ -15,5 +15,5 @@ jobs:
           to: ${{ secrets.MAIL_TO }}
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "Push Notification"
+          subject: "Push Notification hello"
           body: "Push Notification souw iwky eoly hisn"
